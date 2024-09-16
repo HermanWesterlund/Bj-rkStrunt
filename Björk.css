@@ -8,7 +8,7 @@
     
     h1, p {
         font-size: 6rem;
-        color: black;
+        color: white;
         padding: 2rem;
         font-family: fantasy;
     }
@@ -21,6 +21,11 @@
         max-height: 60vh;
         object-fit: cover;
     }
+
+.overlay {
+  background-color: rgba(20, 53, 1, 0.25);
+}
+
 }
 
 .container {
