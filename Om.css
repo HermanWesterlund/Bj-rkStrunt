@@ -1,6 +1,7 @@
 .hero {
     display: grid;
     grid-template-areas: "stack";
+    background-color: black;
 
     >* {
         grid-area: stack;
@@ -9,7 +10,7 @@
     h1, p {
         font-size: 6rem;
         color: white;
-        padding: 2rem;
+        padding: 1rem;
         font-family: fantasy;
     }
     p {
@@ -37,8 +38,8 @@
     flex-wrap: wrap;
     align-items: center;
     gap: 1rem;
-    padding: 1.6rem;
-    background-image: url("skumBjörk.jpg");
+    padding: 0.5rem;
+    background-color: rgb(0, 0, 0);
     font-size: 1.4rem;
   }
   /* The following data-layout exceptions control how the navbar is displayed */
