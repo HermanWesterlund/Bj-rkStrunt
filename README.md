@@ -23,4 +23,9 @@ W3C:
             Lösning: Om jag har förstått det rätt så betyder detta fel att det är spaces i koden som identifieras som no spaces? Problemet är att jag inte vet vad det innebär, och det verkar inte påverka sidan på något vis som jag kan se.
 MOBIL:
     Inga riktiga fel, men det blev lite ful radbrytning av texten i min hero på index sidan. Lösningen för det är att minska texten, men jag tycker inte det hade passat på dator alls. Egentligen är det bara att jag har en sån lång titel. Det är också något konstigt whitespace till höger om hela sidan, men det beror på min stora text. Lösningen är åter igen att göra min text mindre.
-        Uppdatering: Jag valde att minska texten.
+        Uppdatering: Jag valde att minska texten. Nu är sidan behaglig på mobil.
+INLÄSNING MED DÅLIGT NÄT:
+    Det tog 5.60 sekunder att läsa in sidan med 3G.
+BILDER OCH MEDIA:
+    Bild nummer 1 tog upp 177kb resurser och tog 166ms att ladda in.
+    Bild nummer 2 tog upp 209kb resurser och tog 158ms att ladda in.
